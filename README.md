@@ -1,3 +1,3 @@
 # Practice
 
-Learning GitHub, so this is practice
+Learning GitHub. This is practice.
